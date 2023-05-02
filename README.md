@@ -5,7 +5,9 @@ This project is part of a front-end task that requires creating a product sales 
 To run this project locally, you will need to install XAMPP and Composer. Once you have these dependencies installed, follow these steps:
 
 1.Clone the repository
+
 2.In the project folder, run composer install in your terminal
+
 3.Run php artisan serve and go to the link displayed on the screen. A blank page should appear.
 
 ## Libraries Used
